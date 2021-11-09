@@ -1,0 +1,75 @@
+.mainheading{
+	border: 3px solid yellow;
+	
+}
+.h:hover{
+	background-color:whitesmoke; 
+	text-decoration: underline;
+	border-color: black;
+	border-radius: 30px;
+} 
+#slider .a{
+	height: 400px;
+}
+marquee{
+	color: red;
+	font-size: 25px;
+}j
+.b{
+	text-decoration: underline;
+}
+.c{
+	text-decoration: underline;
+}
+.d{
+	border-right: 2px solid gray;
+}
+.e{
+	list-style-type: none;
+}
+#back-top{
+	float: right;
+	margin-right: 50px;
+}
+#back-top:hover{
+	background-color: ;
+	text-decoration: none;
+}
+.g>a{
+	text-decoration: none;
+}
+.f>ul>li{
+	list-style-type: none
+}
+/* .i{
+	margin-left: -2rem;
+} */
+.j{
+	border-style:outset;
+	border-color: rgb(159, 238, 0);
+	background-color: whitesmoke
+	
+}
+/*.galleryli{
+	background-image: url(img/mfob.jpg);
+}*/
+.gallarybrand{
+	text-decoration: underline;
+}
+.lengahtext {
+	line-height: 40px;
+}
+.linkstyle{
+	text-decoration: none;
+}
+.servicesbg{
+	background-image: url(img/lengahg1.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: fixed;
+	background-attachment: fixed;
+
+}
+.aaa{
+
+}
