@@ -1,5 +1,7 @@
 .mainheading{
 	border: 3px solid yellow;
+	background-position: fixed;
+	background-attachment: fixed;
 	
 }
 .h:hover{
@@ -68,7 +70,6 @@ marquee{
 	background-size: 100%;
 	background-position: fixed;
 	background-attachment: fixed;
-
 }
 .aaa{
 
